@@ -1,0 +1,4 @@
+data/** filter=lfs diff=lfs merge=lfs -text
+evaluations/** filter=lfs diff=lfs merge=lfs -text
+lightning_logs/** filter=lfs diff=lfs merge=lfs -text
+model_training_logs/** filter=lfs diff=lfs merge=lfs -text
